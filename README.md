@@ -794,7 +794,7 @@ Cloud Deployment
 
 ### LinkedIn
 
-https://www.linkedin.com/in/jaiswal-aniket-27b224275/
+https://www.linkedin.com/in/aniket-jaiswal-27b224275/
 
 ### GitHub
 
