@@ -594,56 +594,6 @@ __pycache__/
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of the deployed application here.
-
-Recommended screenshots:
-
-### Dashboard
-
-```text
-screenshots/dashboard.png
-```
-
-### Data Quality
-
-```text
-screenshots/data-quality.png
-```
-
-### AI Recommendations
-
-```text
-screenshots/ai-recommendations.png
-```
-
-### Cleaning Results
-
-```text
-screenshots/cleaning-results.png
-```
-
-### Export
-
-```text
-screenshots/export.png
-```
-
-Once the images are added to the repository, they can be displayed using:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-
-![Data Quality](screenshots/data-quality.png)
-
-![AI Recommendations](screenshots/ai-recommendations.png)
-
-![Cleaning Results](screenshots/cleaning-results.png)
-```
-
----
-
 # 📈 Project Results
 
 The project demonstrates an end-to-end automated data-quality workflow capable of:
